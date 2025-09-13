@@ -57,7 +57,7 @@ Définition du fond :
 --------------------
 */
 body {
-    background-image: linear-gradient(0deg, rgba(51, 157, 206, 0.74), rgba(68, 160, 184, 0.849), , rgba(255, 255, 255, 0.95));
+    background-image: linear-gradient(0deg, rgba(42, 146, 194, 0.74), rgba(68, 160, 184, 0.849), , rgba(255, 255, 255, 0.95));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; /*contain*/ 

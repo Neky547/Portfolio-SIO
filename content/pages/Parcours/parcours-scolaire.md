@@ -1,37 +1,47 @@
 Title: Parcours scolaire
 
-# Présentation de mon parcours scolaire
+# Mon Parcours Scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
+---
 
+> ## 🎓 2025 - Aujourd'hui  
+> **BTS SIO - 2e année**  
+> 📍 Lycée Léonard-de-Vinci  
+> Année en cours de formation spécialisée en **Solutions Logicielles et Applications Métiers (SLAM)**.
 
+---
 
-**1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
+> ## 💻 2024 - 2025  
+> **BTS SIO - 1e année**  
+> 📍 Lycée Léonard-de-Vinci  
+> Formation spécialisée en **Solutions Logicielles et Applications Métiers (SLAM)**.
 
-- **<u>Options :</u>**
-    - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
-    - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
+---
 
+> ## 📚 2023 - 2024  
+> **Licence en AES - 1e année**  
+> 📍 Université Paris-Saclay  
+> Formation en **Administration Économique et Sociale** :  
+> - Droit  
+> - Économie  
+> - Gestion  
+> - Sociologie  
 
-- **<u>Durée :</u>** 2 ans.
-- **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
+---
 
+> ## 💼 2021 - 2023  
+> **Licence en Sciences de Gestion - 2e année**  
+> 📍 ESSCA Antanimena – Madagascar  
+> Spécialisation en **Finances et Comptabilité**.
 
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
+---
 
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
+> ## 📝 2021  
+> **Baccalauréat Scientifique**  
+> 📍 Lycée Antananarivo – Madagascar  
+> Spécialités :  
+> - Mathématiques  
+> - Physique-Chimie  
 
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
+---
 
-
-**3. BUT Informatique** (ex-DUT) :
-
-Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
-
-- **<u>Spécialités :</u>** développement, data, systèmes et réseaux, gestion de projets.
-- **<u>Points forts :</u>** pédagogie par projets, bonne réputation auprès des entreprises.
-- **<u>Débouchés :</u>** bac +3 direct, insertion professionnelle ou poursuite en Master/école d’ingénieur.
-
-
-
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.

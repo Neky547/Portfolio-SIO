@@ -19,7 +19,7 @@ _______________________________________________________________________________
             <!-- Eléments de navigation : -->
             <div class="collapse navbar-collapse" id="navbarNav">
 
-                <ul class="navbar-nav nav-underline ms-4 ms-md-0  mb-md-0 mt-4 mt-md-0 fw-bold">
+                <ul class="navbar-nav nav-underline mx-auto mb-md-0 mt-4 mt-md-0 fw-bold bg-white-subtle">
                     {% for nom, url, icone, sousNav, description, couleur in MENUITEMS %}
                         
                         {# Détection si un des sous-liens est actif #}
@@ -43,11 +43,12 @@ _______________________________________________________________________________
                             </a>
                             
                             {% if sousNav != None %}
-                                <ul class="dropdown-menu bg-dark-subtle">
+                                <ul class="dropdown-menu bg-dark">
                                     {% for nom, url in sousNav %}
                                         <li><a class="dropdown-item {% if '/' + output_file == url + '.html' %} active {% endif %}" href="{{ SITEURL }}{{ url }}">{{ nom }}</a></li>
                                     {% endfor %}
                                 </ul> 
+
                             {% endif %}
                         </li>
                     {% endfor %}

@@ -119,22 +119,22 @@ Couleur des éléments de navigations :
 
 .dropdown-item {
     font-weight: bold;
-    color: black;
+    color: rgb(124, 114, 114);
 }
 
 
 .dropdown-item:focus {
-    background-color: black;
+    background-color: rgb(102, 91, 91);
     color: var(--nav-link-active);;
 }
 
 
 .navbar-nav .nav-item .dropdown-menu .active {
-    background-color: black;
+    background-color: rgb(116, 112, 112);
     color: var(--nav-link-active);
 }
 
 
 .navbar-toggler {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(70, 68, 68, 0.795);
 }

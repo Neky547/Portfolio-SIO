@@ -1,0 +1,15 @@
+# Ignorer le dossier venv (environnement virtuel)
+venv/
+.venv/
+
+# Ignorer fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer fichiers de configuration VS Code
+.vscode/
+
+# Ignorer fichiers système
+.DS_Store
+Thumbs.db
